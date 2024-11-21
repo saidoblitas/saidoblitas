@@ -19,9 +19,10 @@ Hola, soy Said Oblitas! <img src="https://raw.githubusercontent.com/nixin72/nixi
     <img align="center" alt="Said Oblitas | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://github.com/saidoblitas" target="_blank">
-    <img align="center" alt="Said Oblitas | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
+  <a href="mailto:junioroblitas50@gmail.com?subject=Mensaje%20desde%20GitHub" >
+    <img align="center" alt="Said Oblitas | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a>
+
 <p> 
 
 
