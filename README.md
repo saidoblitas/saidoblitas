@@ -108,6 +108,9 @@ yo-soy-saidoblitas@github
 ### 💻 Software y Herramientas
 
 <p>
+    <a href="#"><img alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/></a>
+    <a href="#"><img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
+    <a href="#"><img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/></a>
     <a href="#"><img alt="Chrome" class="badge-icon" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
     <a href="#"><img alt="Git" class="badge-icon" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" class="badge-icon" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
