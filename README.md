@@ -3,23 +3,23 @@
 Hola, soy Said Oblitas! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> 
     
 <p align="center">
-  <a href="mailto:tien.huynhlt.tn@gmail.com" >
+  <a href="junioroblitas50@gmail.com" >
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/tienhuynh-tn/" target="_blank">
+  <a href="https://www.linkedin.com/in/said-oblitas/" target="_blank">
     <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.facebook.com/tienhuynh.tn/" target="_blank">
+  <a href="[https://www.facebook.com/tienhuynh.tn/](https://www.facebook.com/junior.S.Oblitas.07/)" target="_blank">
       <img align="center" alt="TienHuynh-TN | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.instagram.com/_huynh.tien.5536_/" target="_blank">
+  <a href="[https://www.instagram.com/_huynh.tien.5536_/](https://www.instagram.com/said.oblitas_07/)" target="_blank">
     <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn" target="_blank">
+  <a href="[https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn](https://github.com/saidoblitas)" target="_blank">
     <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 <p> 
