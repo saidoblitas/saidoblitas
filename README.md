@@ -32,7 +32,8 @@ Hola, soy Said Oblitas! <img src="https://raw.githubusercontent.com/nixin72/nixi
 
 yo-soy-saidoblitas@github  
 -------------------------  
-💻 Soy un desarrollador Full Stack y Front-end autodidacta, con un enfoque creativo en el diseño y desarrollo de páginas web.  
+
+<img align="right" height="270px" alt="guy" src="https://camo.githubusercontent.com/a9018229e78d674348171929c4fd61ae0f248e84c8027e3b96f4cbe0178fb1c0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" data-canonical-src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">💻 Soy un desarrollador Full Stack y Front-end autodidacta, con un enfoque creativo en el diseño y desarrollo de páginas web.   
 📚 Actualmente estudio Desarrollo de Sistemas Front-end y Back-end en el Instituto Superior Tecnológico IDAT.  
 📝 Me apasiona aprender nuevas tecnologías y utilizarlas para crear experiencias únicas que sorprendan a los usuarios.  
 🔭 Estoy trabajando en un proyecto personal sobre un restaurante llamado "El Goloso".  
@@ -40,6 +41,8 @@ yo-soy-saidoblitas@github
 🌟 Lenguajes que disfruto usar: CSS, HTML, Java, JavaScript, TypeScript, Python.  
 🚩 Me interesa particularmente el desarrollo de aplicaciones web utilizando frameworks como React, Angular y tecnologías como Bootstrap.  
 🎵 En mi tiempo libre, disfruto de la música, especialmente géneros como metal, lofi, jazz y música suave.  
+
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" alt="c" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/59575502/127427976-be2bc801-ad71-4480-bda4-a6f64926cb7b.png" alt="linux" width="25" height="25" />
