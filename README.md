@@ -1,7 +1,7 @@
  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
- <h1 align="center">
+<h1 align="center">
 Hola, soy Said Oblitas! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> 
-       
+    
 <p align="center">
   <a href="mailto:junioroblitas50@gmail.com" >
     <img align="center" alt="Said Oblitas | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
@@ -19,9 +19,11 @@ Hola, soy Said Oblitas! <img src="https://raw.githubusercontent.com/nixin72/nixi
     <img align="center" alt="Said Oblitas | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="mailto:junioroblitas50@gmail.com?subject=Mensaje%20desde%20GitHub" >
-    <img align="center" alt="Said Oblitas | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a>
+  <a href="https://github.com/saidoblitas" target="_blank">
+    <img align="center" alt="Said Oblitas | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+<p> 
+
 
 <p> 
 
